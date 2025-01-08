@@ -1,3 +1,5 @@
+package BasicSocketProgrammingWIthoutThread;
+
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -6,7 +8,7 @@ import java.util.Scanner;
 public class Server {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         ServerSocket serverSocket = new ServerSocket(22222);
-        System.out.println("Server is running...");
+        System.out.println("BasicSocketProgrammingWIthoutThread.Server is running...");
 
         while (true) {
             System.out.println("Waiting for a client...");

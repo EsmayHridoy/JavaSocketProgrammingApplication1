@@ -1,3 +1,5 @@
+package BasicSocketProgrammingWIthoutThread;
+
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
@@ -18,7 +20,7 @@ public class Client1 {
 
         while(true){
             Object serverMsg = ois.readObject();
-            System.out.println("Server: "+(String)serverMsg);
+            System.out.println("BasicSocketProgrammingWIthoutThread.Server: "+(String)serverMsg);
 
             String act = (String) serverMsg;
             if("not available".equals(act) || "served".equals(act))break;
