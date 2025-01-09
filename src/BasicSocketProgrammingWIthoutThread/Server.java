@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Server {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         ServerSocket serverSocket = new ServerSocket(22222);
-        System.out.println("BasicSocketProgrammingWIthoutThread.Server is running...");
+        System.out.println("BasicSocketProgrammingWithoutThread.Server is running...");
 
         while (true) {
             System.out.println("Waiting for a client...");

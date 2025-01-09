@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1f0cc7a-2802-4b83-aa81-95130bc48bd8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Synchronization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Synchronization/PrinterDokan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Synchronization/PrinterMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,29 +18,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrinterDokan.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterDokan.java">
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" lean-forward="true" selection-end-line="9" />
+            <state relative-caret-position="225">
+              <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrinterMachine.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterMachine.java">
+      <file leaf-file-name="ServerThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/ServerThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-210">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Synchronization/Person.java">
+      <file leaf-file-name="Client2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="480">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="28" lean-forward="true" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +104,11 @@
         <option value="$PROJECT_DIR$/src/Synchronization/Person.java" />
         <option value="$PROJECT_DIR$/src/Synchronization/PrinterDokan.java" />
         <option value="$PROJECT_DIR$/src/Synchronization/PrinterMachine.java" />
+        <option value="$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java" />
+        <option value="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Server.java" />
+        <option value="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client1.java" />
+        <option value="$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client2.java" />
       </list>
     </option>
   </component>
@@ -107,6 +143,18 @@
               <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaSocketProgrammingApplication1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicSocketProgrammingWIthoutThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSocketProgrammingApplication1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicSocketProgrammingWithThread" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -133,21 +181,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrinterDokan">
+  <component name="RunManager" selected="Application.Client2">
     <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWIthoutThread.Client1" />
-      <module name="JavaSocketProgrammingApplication1" />
-    </configuration>
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWIthoutThread.Client2" />
-      <module name="JavaSocketProgrammingApplication1" />
-    </configuration>
-    <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadExample.MainThread" />
+      <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWithThread.Client1" />
       <module name="JavaSocketProgrammingApplication1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadExample.*" />
+          <option name="PATTERN" value="BasicSocketProgrammingWithThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWithThread.Client2" />
+      <module name="JavaSocketProgrammingApplication1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSocketProgrammingWithThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,20 +222,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWithThread.Server" />
+      <module name="JavaSocketProgrammingApplication1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSocketProgrammingWithThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.Client1" />
-      <item itemvalue="Application.Client2" />
-      <item itemvalue="Application.MainThread" />
       <item itemvalue="Application.MainThreadProducerConsumer" />
       <item itemvalue="Application.PrinterDokan" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client1" />
+      <item itemvalue="Application.Client2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrinterDokan" />
-        <item itemvalue="Application.MainThreadProducerConsumer" />
-        <item itemvalue="Application.MainThread" />
         <item itemvalue="Application.Client2" />
         <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.PrinterDokan" />
+        <item itemvalue="Application.MainThreadProducerConsumer" />
       </list>
     </recent_temporary>
   </component>
@@ -201,12 +261,12 @@
       <updated>1736316632530</updated>
       <workItem from="1736316634452" duration="7536000" />
       <workItem from="1736335607916" duration="3634000" />
-      <workItem from="1736397157599" duration="2557000" />
+      <workItem from="1736397157599" duration="5869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13727000" />
+    <option name="totallyTimeSpent" value="17039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="727" extended-state="6" />
@@ -226,7 +286,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -339,36 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/MainThreadProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -393,24 +423,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Synchronization/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterDokan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="true" selection-end-line="9" />
+        <state relative-caret-position="55">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Synchronization/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/ServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" lean-forward="true" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWithThread/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
