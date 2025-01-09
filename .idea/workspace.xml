@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1f0cc7a-2802-4b83-aa81-95130bc48bd8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/MainThreadProducerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronization/PrinterDokan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronization/PrinterMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSocketProgrammingApplication1/Client1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSocketProgrammingApplication1/Client2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSocketProgrammingApplication1/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSocketProgrammingApplication1/ThreadExample/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSocketProgrammingApplication1/ThreadExample/MainThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Client2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadExample/MainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadExample/MainThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,32 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainThreadProducerConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/MainThreadProducerConsumer.java">
+      <file leaf-file-name="PrinterDokan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterDokan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="45" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="8" lean-forward="true" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/Consumer.java">
+      <file leaf-file-name="PrinterMachine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/Producer.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Synchronization/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -81,6 +70,9 @@
         <option value="$PROJECT_DIR$/src/ProducerConsumer/MainThreadProducerConsumer.java" />
         <option value="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" />
         <option value="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/Synchronization/Person.java" />
+        <option value="$PROJECT_DIR$/src/Synchronization/PrinterDokan.java" />
+        <option value="$PROJECT_DIR$/src/Synchronization/PrinterMachine.java" />
       </list>
     </option>
   </component>
@@ -103,9 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,28 +107,13 @@
               <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaSocketProgrammingApplication1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicSocketProgrammingWIthoutThread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSocketProgrammingApplication1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ProducerConsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSocketProgrammingApplication1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSocketProgrammingApplication1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadExample" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainThreadProducerConsumer">
+  <component name="RunManager" selected="Application.PrinterDokan">
     <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWIthoutThread.Client1" />
       <module name="JavaSocketProgrammingApplication1" />
@@ -167,13 +141,6 @@
     <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWIthoutThread.Client2" />
       <module name="JavaSocketProgrammingApplication1" />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSocketProgrammingWIthoutThread.Server" />
-      <module name="JavaSocketProgrammingApplication1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadExample.MainThread" />
@@ -195,20 +162,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="PrinterDokan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Synchronization.PrinterDokan" />
+      <module name="JavaSocketProgrammingApplication1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Client1" />
       <item itemvalue="Application.Client2" />
       <item itemvalue="Application.MainThread" />
       <item itemvalue="Application.MainThreadProducerConsumer" />
+      <item itemvalue="Application.PrinterDokan" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrinterDokan" />
         <item itemvalue="Application.MainThreadProducerConsumer" />
         <item itemvalue="Application.MainThread" />
         <item itemvalue="Application.Client2" />
         <item itemvalue="Application.Client1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +200,13 @@
       <option name="presentableId" value="Default" />
       <updated>1736316632530</updated>
       <workItem from="1736316634452" duration="7536000" />
-      <workItem from="1736335607916" duration="2769000" />
+      <workItem from="1736335607916" duration="3634000" />
+      <workItem from="1736397157599" duration="2557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10305000" />
+    <option name="totallyTimeSpent" value="13727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="727" extended-state="6" />
@@ -236,7 +214,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32874355" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -248,9 +226,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -263,6 +240,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +250,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/MainThreadProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicSocketProgrammingWIthoutThread/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -369,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/MainThreadProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="45" selection-end-line="12" />
+        <state relative-caret-position="165">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -379,15 +381,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumer/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="293">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Synchronization/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterDokan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Synchronization/PrinterMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
